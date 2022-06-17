@@ -1,0 +1,13 @@
+Substrates/
+Library/Calcs/
+Library/H/
+Library/Figures/
+Library/Misc/
+Library/__pycache__
+Library/carboxylic_acid
+Library/pickled_data
+Library/.ipynb_checkpoints
+Library/sheets
+Library/base/
+Library/ipynbs/.ipynb_checkpoints
+Library/carboxylic_acids/
